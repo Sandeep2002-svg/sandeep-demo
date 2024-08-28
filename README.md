@@ -1,3 +1,4 @@
 # sandeep-demo
-my first git repository
-Author - sandeep mohanty
+my first git repository.
+<br>
+Author - Sandeep Mohanty
